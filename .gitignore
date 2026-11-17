@@ -1,0 +1,11 @@
+# Compilados
+out/
+*.class
+
+# IntelliJ: solo se versionan .idea/modules.xml y veterinaria.iml
+.idea/*
+!.idea/modules.xml
+
+# Sistema
+.DS_Store
+Thumbs.db
